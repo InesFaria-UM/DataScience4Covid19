@@ -1,0 +1,2 @@
+# DataScience4Covid19
+This project was proposed under the curricular unit of Intelligent systems for bioinformatics. The objective of the practical work, in this academic year, will be to address a theme that is relevant within the current pandemic situation, and that can be addressed using the methods studied in class in the scope of data sciences, including the statistical data analysis, data mining, machine learning and deep learning.
