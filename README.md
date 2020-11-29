@@ -2,7 +2,7 @@
 This project was proposed under the curricular unit of Intelligent Systems For Bioinformatics. The objective of this practical work, in this academic year, will be to address a theme that is relevant within the current pandemic situation, and that can be addressed using the methods studied in class in the scope of data sciences, including the statistical data analysis, data mining, machine learning and deep learning.
 
 ## Elements of the Group:
-Ana Barbosa pg40951, Maria Fernanda Vieira pg40963, Maria Inês Faria pg40962, Miguel Pacheco pg28837
+Ana Barbosa pg40951, Maria Fernanda Vieira pg40963, Maria Inês Faria pg40964, Miguel Pacheco pg28837
 
 ## Generic Topic: 
 Clinical Data / Images
