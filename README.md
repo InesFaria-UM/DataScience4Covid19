@@ -17,3 +17,4 @@ In this work we will use the data from Kaggle (COVID-19 X-Ray Dataset) mainly th
 In this difficult phase that we are all going through, we believe that science has an increasingly important role in our society. So, we chose this topic because we believe that the development of deep learning methods, able to classify radiology images of covid patients or other lung diseases, would facilitate the work of doctors.
 
 
+hshdbbddbdb
