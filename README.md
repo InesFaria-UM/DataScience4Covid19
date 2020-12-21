@@ -11,7 +11,7 @@ Clinical Data / Images
 Classification of radiology images of covid patients vs other lung diseases
 
 ## Data / Data sources to consider:
-In this work we will use the data from kaggle (COVID-19 Detection X-Ray Dataset) mainly the X-ray images of COVID-19 patients and patients with bacterial / viral pneumonia. If it turns out to be interesting for the study, we will proceed with the analysis of data from normal people, in other words, without any type of associated lung disease. https://www.kaggle.com/darshan1504/covid19-detection-xray-dataset
+In this work we will use the data from Mendeley Data (COVID-19 X-Ray and CT Chest Images Dataset) mainly the X-ray images of COVID-19 patients and patients with bacterial / viral pneumonia. If it turns out to be interesting for the study, we will proceed with the analysis of data from normal people, in other words, without any type of associated lung disease. https://data.mendeley.com/datasets/8h65ywd2jr/3
 
 ## Motivation: 
 In this difficult phase that we are all going through, we believe that science has an increasingly important role in our society. So, we chose this topic because we believe that the development of deep learning methods, able to classify radiology images of covid patients or other lung diseases, would facilitate the work of doctors.
