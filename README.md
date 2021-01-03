@@ -11,7 +11,7 @@ Clinical Data / Images
 Classification of radiology images of covid patients vs other lung diseases
 
 ## Data / Data sources to consider:
-Due to the lack of datasets with both clinical data and X-ray images we opted to get 2 different datasets. The first dataset describes clinical data features and the result from the Covid19 test and it was extracted from Kaggle. Source: https://www.kaggle.com/hemanthhari/symptoms-and-covid-presence (first dataset) <p>
+Due to the lack of datasets with both clinical data and X-ray images we opted to get 2 different datasets. The first dataset describes clinical data features and the result from the Covid19 test and it was extracted from Kaggle. Source: https://www.kaggle.com/hemanthhari/symptoms-and-covid-presence (first dataset) <br />
 The second dataset also extracted from Kaggle, contains mainly the X-ray images of COVID-19 patients and patients with bacterial / viral pneumonia. If it turns out to be interesting for the study, we will proceed with the analysis of data from normal people, in other words, without any type of associated lung disease.
 Source: https://www.kaggle.com/darshan1504/covid19-detection-xray-dataset (second dataset)
 
