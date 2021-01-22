@@ -26,6 +26,7 @@ In this work we will focus on following scientific/technological objectives:
 - Write article with main results of this work
 
 
-The results and discussion of this work can be found in SIB.pdf \par
+The results and discussion of this work can be found in SIB.pdf 
+
 Furthermore, the folders Supplementary Material 1, 2, 3 contain the images from the machine learning approach, deep learning approach and the machine learning models built, respectively.  
 
