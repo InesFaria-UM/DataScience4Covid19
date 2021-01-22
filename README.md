@@ -19,9 +19,13 @@ Source: https://www.kaggle.com/darshan1504/covid19-detection-xray-dataset (secon
 In this difficult phase that we are all going through, we believe that science has an increasingly important role in our society. So, we chose this topic because we believe that the development of deep learning methods, able to classify radiology images of covid patients or other lung diseases, would facilitate the work of doctors.
 
 ## Objectives:
-
 In this work we will focus on following scientific/technological objectives: 
 - Developing and comparing different data pre-processing workflows for the first dataset with features related to COVID19
 - Developing machine learning models for first dataset and deep learning models for the second dataset
 - Evaluate and compare the models performance
 - Write article with main results of this work
+
+
+The results and discussion of this work can be found in SIB.pdf
+Furthermore, the folders Supplementary Material 1, 2, 3 contain the images from the machine learning approach, deep learning approach and the machine learning models built, respectively.  
+
