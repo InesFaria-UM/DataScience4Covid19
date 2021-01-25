@@ -25,8 +25,6 @@ In this work we will focus on following scientific/technological objectives:
 - Evaluate and compare the models performance
 - Write article with main results of this work
 
-
-The results and discussion of this work can be found in SIB.pdf 
-
-Furthermore, the folders Supplementary Material 1, 2, 3 contain the images from the machine learning approach, deep learning approach and the machine learning models built, respectively.  
-
+## Results:
+The machine and deep learning pipelines can, respectively, be found in the notebooks ML.ipynb and DL.ipynb
+The folders Supplementary Material 1 and 2 contain the images obtained from the machine learning and deep learning approach, respectively, and Supplementary Material 3 contains the machine learning models built.
